@@ -1,0 +1,6 @@
+{:name "Borealis (theme)"
+ :version "0.0.1"
+ :author "James Trunk, Kristoffer Skjutare"
+ :source "https://github.com/Misophistful/borealis-lighttable-theme"
+ :desc "Adds the borealis theme, a LightTable theme with dark background and rainbow brackets."
+ :behaviors "borealis_lighttable_theme.behaviors"}

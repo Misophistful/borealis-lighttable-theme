@@ -1,0 +1,3 @@
+{:+ {:editor [(:lt.objs.style/provide-theme "borealis" "borealis.css")
+              (:lt.objs.style/set-theme  "borealis")]}}
+
