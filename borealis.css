@@ -22,20 +22,21 @@
 
 .cm-s-borealis span.cm-SUBST {color: #CCCCCC;}
 
-.cm-s-borealis span.cm-bracket1 {color: #70BFFF;}                                                            /* (                             :blue        */
-.cm-s-borealis span.cm-bracket2 {color: #887FD5;}                                                            /* ((                            :purple      */
-.cm-s-borealis span.cm-bracket3 {color: #EB77EC;}                                                            /* (((                           :pink        */
-.cm-s-borealis span.cm-bracket4 {color: #FFBB44;}                                                            /* ((((                          :orange      */
-.cm-s-borealis span.cm-bracket5 {color: #EFEF66;}                                                            /* (((((                         :yellow      */
-.cm-s-borealis span.cm-bracket6 {color: #63EB63;}                                                            /* ((((((                        :green       */
-.cm-s-borealis span.cm-bracket7 {color: #55F1E1;}                                                            /* (((((((                       :cyan        */
-.cm-s-borealis span.cm-bracket8 {color: #70BFFF;}
-.cm-s-borealis span.cm-bracket9 {color: #887FD5;}
-.cm-s-borealis span.cm-bracket10 {color: #EB77EC;}
-.cm-s-borealis span.cm-bracket11 {color: #FFBB44;}
-.cm-s-borealis span.cm-bracket12 {color: #EFEF66;}
-.cm-s-borealis span.cm-bracket13 {color: #63EB63;}
-.cm-s-borealis span.cm-bracket14 {color: #55F1E1;}
+span.cm-rainbow.cm-bracket {color: #70BFFF;}                                                                 /* (                             :blue        */
+span.cm-rainbow.cm-bracket.cm-bracket1 {color: #70BFFF; }                                                    /* (                             :blue        */
+span.cm-rainbow.cm-bracket.cm-bracket2 {color: #887FD5;}                                                     /* ((                            :purple      */
+span.cm-rainbow.cm-bracket.cm-bracket3 {color: #EB77EC;}                                                     /* (((                           :pink        */
+span.cm-rainbow.cm-bracket.cm-bracket4 {color: #FFBB44;}                                                     /* ((((                          :orange      */
+span.cm-rainbow.cm-bracket.cm-bracket5 {color: #EFEF66;}                                                     /* (((((                         :yellow      */
+span.cm-rainbow.cm-bracket.cm-bracket6 {color: #63EB63;}                                                     /* ((((((                        :green       */
+span.cm-rainbow.cm-bracket.cm-bracket7 {color: #55F1E1;}                                                     /* (((((((                       :cyan        */
+span.cm-rainbow.cm-bracket.cm-bracket8 {color: #70BFFF;}
+span.cm-rainbow.cm-bracket.cm-bracket9 {color: #887FD5;}
+span.cm-rainbow.cm-bracket.cm-bracket10 {color: #EB77EC;}
+span.cm-rainbow.cm-bracket.cm-bracket11 {color: #FFBB44;}
+span.cm-rainbow.cm-bracket.cm-bracket12 {color: #EFEF66;}
+span.cm-rainbow.cm-bracket.cm-bracket11 {color: #63EB63;}
+span.cm-rainbow.cm-bracket.cm-bracket12 {color: #55F1E1;}
 
 .cm-s-borealis span.cm-bracket0, .cm-s-borealis span.cm-bracket-mismatched {color: #F88; background: #733;}  /* (non-matching-brackets)))     :light-red   */
 
