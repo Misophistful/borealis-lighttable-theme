@@ -1,1 +1,1 @@
-{:+ {:editor [(:lt.objs.style/provide-theme "borealis" "borealis.css")]}}
+{:+ {:app [(:lt.objs.style/provide-theme "borealis" "borealis.css")]}}
